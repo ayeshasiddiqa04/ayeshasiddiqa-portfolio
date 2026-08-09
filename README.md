@@ -1,9 +1,9 @@
 # Ayesha Siddiqa Portfolio
 
-A modern personal portfolio website built with HTML, CSS, and JavaScript. It includes:
+A modern student-professional portfolio website built with HTML, CSS, and JavaScript. It includes:
 
-- Hero and about section
-- Skills and experience timeline
+- Hero and about section framed for a student developer profile
+- Education, skills, and growth timeline
 - Featured project cards with filtering
 - Contact form with email fallback
 - SEO-friendly metadata and responsive design
